@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-location-info/static/css/main.3ecc7d1e.chunk.css",
+    "main.js": "/react-location-info/static/js/main.fe32fd12.chunk.js",
+    "main.js.map": "/react-location-info/static/js/main.fe32fd12.chunk.js.map",
+    "runtime-main.js": "/react-location-info/static/js/runtime-main.fc0dcd0c.js",
+    "runtime-main.js.map": "/react-location-info/static/js/runtime-main.fc0dcd0c.js.map",
+    "static/js/2.3091ce61.chunk.js": "/react-location-info/static/js/2.3091ce61.chunk.js",
+    "static/js/2.3091ce61.chunk.js.map": "/react-location-info/static/js/2.3091ce61.chunk.js.map",
+    "index.html": "/react-location-info/index.html",
+    "static/css/main.3ecc7d1e.chunk.css.map": "/react-location-info/static/css/main.3ecc7d1e.chunk.css.map",
+    "static/js/2.3091ce61.chunk.js.LICENSE.txt": "/react-location-info/static/js/2.3091ce61.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/react-location-info/static/media/landscape_3.4a11c0ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc0dcd0c.js",
+    "static/js/2.3091ce61.chunk.js",
+    "static/css/main.3ecc7d1e.chunk.css",
+    "static/js/main.fe32fd12.chunk.js"
+  ]
+}
